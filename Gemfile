@@ -59,4 +59,3 @@ gem 'jquery-rails'
 gem 'popper_js'
 gem 'tether-rails'
 gem 'simple_form'
-gem "aws-sdk-s3", require: false
